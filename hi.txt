@@ -1,2 +1,3 @@
 EXEC:
 prank_keyboard_fat_fingers()
+execute_random_prank(self)
